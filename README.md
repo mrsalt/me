@@ -1,7 +1,7 @@
 # Mark Salisbury
 This repository contains information about me.  I'm a software developer presently looking for a job.
 
-You can find my full resume <here>.  I've been told it's too long, so there's a shorter version <here>.
+You can find my full resume [here](resume-full.md).  I've been told it's too long, so there's a shorter version [here](resume-short.md).
 
 -------------------------------
 <h2>Why post my resume on GitHub?</h2>
