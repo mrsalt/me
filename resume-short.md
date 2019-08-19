@@ -115,4 +115,4 @@ I have deep experience with many open source projects and also with Microsoft te
   * Club helped students realize academic, social, and career goals.
   * I developed a fully functional graphical RISK game.  Members of the club submitted code libraries which battled each other.  Winners received prizes from local sponsor (Staples).
 
-*This is a somewhat condensed version of my full resume which you can find [here](resume-full.md)*.
+*This is a somewhat condensed version of my full resume which you can find [here](resume-full.md).  I deleted several projects, bullet-points, and a personal section*.
