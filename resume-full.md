@@ -19,7 +19,7 @@ I have deep experience with many open source projects and also with Microsoft te
 
 ## Experience
 
-### Aug. 2002 – Present, *Firmware Engineer*	**HP Inc., Boise ID**
+### Aug. 2002 – Present, *Firmware Engineer*,	**HP Inc., Boise ID**
 
 #### Localization (C++, Python), Nov 2018 - Present
 * Recognized that HPs different printer business units have multiple flaws in both the localization process (making devices support multiple languages) and firmware implementation of localization.
@@ -86,28 +86,28 @@ I have deep experience with many open source projects and also with Microsoft te
   * Developed innovative way to synchronize independent databases.
   * Team members felt that system helped dramatically with productivity.
 
-### Aug 2013 – Oct 2014, *Software Engineer*	**[dzinesteps.com](http://www.dzinesteps.com)** (JavaScript, MySQL)
+### Aug 2013 – Oct 2014, *Software Engineer*,	**[dzinesteps.com](http://www.dzinesteps.com)** (JavaScript, MySQL)
 * Designed and implemented website to help homeowners and designers visualize changes to their existing home or new home.
 * Learned how to use WebGL, an API for 3D rendering in web browsers.
 * Authored performant imaging algorithms in JavaScript.
 * Definitely the most “start-up” environment I worked in, I didn’t receive much pay for this and wasn’t sure if it fit better in “work experience” or personal projects. ;)
 
-### Nov 2006 – Nov 2008, *Software Engineer*	**[www.pinpointyournewhome.com](http://www.pinpointyournewhome.com)** (PHP, JavaScript, MySQL)
+### Nov 2006 – Nov 2008, *Software Engineer*,	**[www.pinpointyournewhome.com](http://www.pinpointyournewhome.com)** (PHP, JavaScript, MySQL)
 * Implemented website to help locate and learn about new home communities.
 * Object oriented design made changing site themes fast.
 * Site heavily dependent on Google Maps API.
 
-### Dec 2001 – Aug 2002, *Software Engineer*	**Multimedia Data Services Corporation, Logan UT** (PHP, JavaScript, MySQL)
+### Dec 2001 – Aug 2002, *Software Engineer*,	**Multimedia Data Services Corporation, Logan UT** (PHP, JavaScript, MySQL)
 * Responsible for design and construction of web-based application for beef cattle ranchers.  The web application I implemented allows users to model their cattle herds and feeding operations and determine the best feeds to use to meet nutritional and weight gain criteria specific to their cattle herds.
 
-### May 2001 – Oct 2001, *Software Engineer*	**INL, Idaho Falls UT** (VB6, C++)
+### May 2001 – Oct 2001, *Software Engineer*,	**INL, Idaho Falls UT** (VB6, C++)
 * Responsible for design and implementation of RISK Monitor, a system to support operators and managers in mission critical systems.  First implementation of RISK Monitor was for the St. Petersburg nuclear power plant, other potential implementations included International Space Station.
 * Exceeded management’s expectations with RISK Monitor project in quality and speed of delivery of product.  Led team of interns in carrying out the design and implementation of RISK Monitor.
 
-### Sep 2000 – Dec 2001, *Tutor*	**Computer Science Department, Utah State University, Logan, UT** (C++/Java)
+### Sep 2000 – Dec 2001, *Tutor*,	**Computer Science Department, Utah State University, Logan, UT** (C++/Java)
 * Helped 10-20 students a week learn to solve computer science problems.  “In the tutor room, Mark has been one of our most popular tutors.  He is friendly and students feel immediately comfortable coming to him for help.”  Vicki Allan, Associate Professor USU.
 
-### Dec 1999 – Sep 2001, *Undergraduate Research Assistant*	**Space Dynamic Laboratory, Logan, UT** (C++/MFC)
+### Dec 1999 – Sep 2001, *Undergraduate Research Assistant*,	**Space Dynamic Laboratory, Logan, UT** (C++/MFC)
 * Lead programmer on team of (student) engineers developing software and hardware for experiment LADA, which flew aboard the International Space Station from 2002-2006.
 * I was responsible for the software, which helped the astronaut set up the experiment, collected data as the experiment ran, and graphed probe data as it was collected.
 * Software used serial interface to communicate with data logger, USB interface to communicate with webcam.  Project was MFC based.
