@@ -35,14 +35,15 @@ I have deep experience with many open source projects and also with Microsoft te
 * Developed HTML5 application to view and analyze low-level logs from HP printers; viewer shows visually how CPUs are allocating clock cycles between different tasks.  It shows key events that are occurring on the device.
 * It has been instrumental in solving various performance and other defects; it’s been used by HP engineers around the globe.
 
-#### [Omni (Web-Based Enterprise Printer/Copier) User Interface](https://www.google.com/search?q=hp+futuresmart+4+control+panel) (C++, JavaScript, CSS), Jan 2013 - Present
+#### [Omni (Web-Based Enterprise Printer/Copier) User Interface](https://www.google.com/search?q=hp+futuresmart+4+control+panel) (C++, C#, JavaScript, CSS), Jan 2013 - Present
 * Helped develop modern web-based UI for HP Printer/Copiers.  User interface has been praised by customers for responsiveness and ease of use.
 * Solved many technical problems – memory leaks, server driven eventing for REST based data models, key based navigation, etc.
 * Made our unit test suite run FAST.  We developed a qunit based test suite.  I parallelized it to run on 8 (or more) CPU cores at a time.
 * Every code integration tests our UI unit test suite of 8,000+ JavaScript driven unit tests – both behavior and screen capture based.  Test suite completes in about 3 minutes.
 
 #### [WebKit](http://www.webkit.org) Browser (C++ / C,  HTML 5, JavaScript, ARM, MIPS & x86), Jul 2009 - Present
-* Lead engineer in HP on WebKit.  WebKit powers web browsers, including Safari and Chrome*.  WebKit has 3+ million lines of code.
+* Lead engineer in HP on WebKit (powers web browsers, including Safari and Chrome*).
+* Worked with contractors in Canada and HP engineers in India and Korea.
 * Kept WebKit up to date, adding new capabilities to our browser (like remote debugger) and created Windows CE browser platform for next generation UI.  This UI powers all HP Enterprise copiers and printers today.
 * Solved challenging performance problems in our display driver more than doubling the frames per second (huge improvement in UI responsiveness).
 * Solved complex problems, including issues with CPU architecture, compiler bugs, browser performance issues, and native to .NET (COM interop) ref counting / memory management and threading problems.
@@ -51,19 +52,6 @@ I have deep experience with many open source projects and also with Microsoft te
 #### OXPd SDKs (.NET / C#, Java, ASP.NET), Aug 2008 - Jul 2009
 * Worked with senior architect responsible for OXPd 1.6 architecture to move project from prototype to production; developed initial SDK, including demo application, continuous integration process, and initial tests.
 
-#### Jedi Extensibility SDKs (.NET / C#), Aug 2008 - Jul 2009
-* Designed and implemented UI related 3rd party SDKs in firmware (Menus, Internal Pages, Help, Localization).
-* Recognized (and convinced others of) supportability problems with original Menus SDK design; designed and implemented simpler solution.
-
-#### DoD CAC (US Government Smart Card Authentication (C++/C)
-* Led development work for Common Access Card (CAC) authentication and e-mail signing solution for OZ based MFP products, moving HP ahead of competitors for US Department of Defense sales.
-* Integrated/ported OpenSSL and Heimdahl open source libraries.
-* Created smart alloc tool, used initially for OpenSSL and Heimdahl but later used for many other libraries to help identify memory leaks by assigning unique identifiers for memory allocations without changing source code.
-
-#### MFP Current Product Engineering Team (C++, PHP, SQL, Java)
-* Delivered crucial new functionality and defects fixes to meet customer needs, often helping to make additional sales (sometimes valued in the millions of dollars).  Often worked on complex issues (like memory corruption, memory leaks, duration test issues) or parts of the system our team was not experienced with.
-* **MIMS (Mark’s Information Management System)**: Developed website / database for team, which managed many aspects of our software development lifecycle:
-  * Team members felt that system helped dramatically with productivity.
 
 ### Aug 2013 – Oct 2014, *Software Engineer*,	**[dzinesteps.com](http://www.dzinesteps.com)** (JavaScript, MySQL)
 * Designed and implemented website to help homeowners and designers visualize changes to their existing home or new home.
@@ -111,4 +99,4 @@ I have deep experience with many open source projects and also with Microsoft te
   * Club helped students realize academic, social, and career goals.
   * I developed a fully functional graphical RISK game.  Members of the club submitted code libraries which battled each other.  Winners received prizes from local sponsor (Staples).
 
-*This is a somewhat condensed version of my full resume which you can find [here](resume-full.md).  I deleted several projects, bullet-points, and a personal section*.
+*This is a condensed version of my full resume which you can find [here](resume-full.md).  I deleted many projects, jobs, and a personal section*.

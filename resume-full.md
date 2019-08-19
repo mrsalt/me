@@ -35,7 +35,7 @@ I have deep experience with many open source projects and also with Microsoft te
 * It has been instrumental in solving various performance and other defects; it’s been used by HP engineers around the globe.
 * I came up for the idea of this tool fairly early in the development of the Omni UI after reading that one reason WebOS failed to take hold was poor performance.  I didn’t want our web-based UI to suffer a similar fate.
 
-#### [Omni (Web-Based Enterprise Printer/Copier) User Interface](https://www.google.com/search?q=hp+futuresmart+4+control+panel) (C++, JavaScript, CSS), Jan 2013 - Present
+#### [Omni (Web-Based Enterprise Printer/Copier) User Interface](https://www.google.com/search?q=hp+futuresmart+4+control+panel) (C++, C#, JavaScript, CSS), Jan 2013 - Present
 * Helped develop modern web-based UI for HP Printer/Copiers.  User interface has been praised by customers for responsiveness and ease of use.
 * As a technical lead, worked with engineers in the US, Brazil, and India.
 * Solved many technical problems – memory leaks, server driven eventing for REST based data models, key based navigation, etc.
@@ -43,7 +43,8 @@ I have deep experience with many open source projects and also with Microsoft te
 * Every code integration tests our UI unit test suite of 8,000+ JavaScript driven unit tests – both behavior and screen capture based.  Test suite completes in about 3 minutes.
 
 #### [WebKit](http://www.webkit.org) Browser (C++ / C,  HTML 5, JavaScript, ARM, MIPS & x86), Jul 2009 - Present
-* Lead engineer in HP on WebKit.  WebKit powers web browsers, including Safari and Chrome*.  WebKit has a JavaScript interpreter, DOM implementation, rendering engine, and uses many different graphics and network libraries.  WebKit has grown from around 1 million lines of code in 2009 (when I started working with it) to 3 million lines of code today.
+* Lead engineer in HP on WebKit (powers web browsers, including Safari and Chrome*).  WebKit has 3+ million lines of code.
+* Worked with contractors in Canada and HP engineers in India and Korea.
 * Kept WebKit up to date, adding new capabilities to our browser (like remote debugger) and created Windows CE browser platform for next generation UI.  This UI powers all HP Enterprise copiers and printers today.
 * Solved challenging performance problems in our display driver more than doubling the frames per second (huge improvement in UI responsiveness).
 * Lead developer of efforts to integrate WebKit browser into OZ (legacy products built on LynxOS, similar to Linux) and Jedi (new products built on Windows XP and Windows CE).  The browser is a key technology piece for OXPd 1.6, a major strategy for HP enterprise laserjet products.
@@ -64,7 +65,7 @@ I have deep experience with many open source projects and also with Microsoft te
 
 #### DoD CAC (US Government Smart Card Authentication (C++/C)
 * Led development work for Common Access Card (CAC) authentication and e-mail signing solution for OZ based MFP products, moving HP ahead of competitors for US Department of Defense sales.
-* Integrated/ported OpenSSL and Heimdahl open source libraries into MFP architecture.
+* Integrated/ported OpenSSL and Heimdahl open source libraries.
 * Created smart alloc tool, used initially for OpenSSL and Heimdahl but later used for many other libraries to help identify memory leaks by assigning unique identifiers for memory allocations without changing source code.
 
 #### MFP Current Product Engineering Team (C++, PHP, SQL, Java)
