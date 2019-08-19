@@ -70,10 +70,6 @@ I have deep experience with many open source projects and also with Microsoft te
 * Learned how to use WebGL, an API for 3D rendering in web browsers.
 * Authored performant imaging algorithms in JavaScript.
 
-### May 2001 – Oct 2001, *Software Engineer*,	**INL, Idaho Falls UT** (VB6, C++)
-* Responsible for design and implementation of RISK Monitor, a system to support operators and managers in mission critical systems.  First implementation of RISK Monitor was for the St. Petersburg nuclear power plant, other potential implementations included International Space Station.
-* Exceeded management’s expectations with RISK Monitor project in quality and speed of delivery of product.  Led team of interns in carrying out the design and implementation of RISK Monitor.
-
 ### Sep 2000 – Dec 2001, *Tutor*,	**Computer Science Department, Utah State University, Logan, UT** (C++/Java)
 * Helped 10-20 students a week learn to solve computer science problems.  “In the tutor room, Mark has been one of our most popular tutors.  He is friendly and students feel immediately comfortable coming to him for help.”  Vicki Allan, Associate Professor USU.
 
