@@ -6,6 +6,8 @@ This repository contains information about me.  I'm an experienced firmware/soft
 
 You can find my full resume [here](resume-full.md).  I've been told it's too long, so there's a shorter version [here](resume-short.md).
 
+You can find my LinkedIn profile [here](https://www.linkedin.com/in/mark-salisbury-44044b1/).
+
 -------------------------------
 <h2>Why post my resume on GitHub?</h2>
 
