@@ -1,5 +1,7 @@
 # Mark Salisbury
 
+<img align="right" width="30%" src="mark-picture.jpg">
+
 This repository contains information about me.  I'm an experienced firmware/software developer presently looking for a job.
 
 You can find my full resume [here](resume-full.md).  I've been told it's too long, so there's a shorter version [here](resume-short.md).
