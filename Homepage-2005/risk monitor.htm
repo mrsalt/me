@@ -1,0 +1,101 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Microsoft Theme" content="blueprnt 111, default">
+   <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+   <title>RISK Monitor for SAPHIRE</title>
+</head>
+<body text="#003366" bgcolor="#FFFFCC" link="#9900FF" vlink="#3366FF" alink="#99CCFF" background="blutextb.gif">
+<h1 style="margin-left: 0" align="left"> <font face="Century Gothic, Arial, Helvetica" color="#330099"> 
+  RISK Monitor for SAHIRE</font></h1>
+
+<h2><img src="riskmonitor.JPG" width="360" height="244" border="0" alt="LADA Screen Shot 1" align="left" hspace="20" vspace="20">Project 
+  Description:</h2>
+<p>RISK Monitor for SAPHIRE is the name of a program I helped develop this summer 
+  while working for the Idaho National Environmental and Engineering Laboratory 
+  (INEEL) in Idaho Falls. INEEL is a large national laboratory controlled by the 
+  department of energy specializing in many areas of advanced scientific research. 
+  Among those areas is the concern for safe nuclear power. To help evaluate and 
+  understand risk levels associated with nuclear power and in other mission critical 
+  scenarios (like the space shuttle or high speed trains) INEEL has been developing 
+  a software package called SAPHIRE for over ten years. The purpose of this software 
+  package is to help risk analysts build fault trees and create risk models for 
+  mission critical systems. INEEL scientists have developed risk models for nuclear 
+  power plants in the United States. In addition this software is licensed to 
+  organizations exterior to INEEL and those organizations (NASA and the Russian 
+  Atomic Energy Commission are two examples) use SAPHIRE to help evaluate their 
+  systems. The purpose of Risk Monitor for SAPHIRE is to provide a more easy to 
+  use program where operators and mission controllers in mission critical situations 
+  can simulate individual system faults and understand how such failures can increase 
+  general risk levels. These models work because when one failure occurs it affects 
+  the reliability of systems which are dependent upon that system. The success 
+  of those overall systems can affect human safety and overall mission success. 
+</p>
+<p>My role was to take the requirements definition and to realize it into more 
+  specific plans for a program. As I had some experience doing this for SDL and 
+  in a class the previous semester I really enjoyed this. I led the design process 
+  by presenting ideas to management and asking questions about what they wanted. 
+  Two other interns worked on the program with me. We worked together very well 
+  and I felt that they looked to me for plans about what to work on. We helped 
+  each other solve problems -- whether it was a software bug or just thinking 
+  through an idea. </p>
+<p><img src="riskmonitor1.jpg" width="385" height="301" align="right" border="0" hspace="20" vspace="20"></p>
+<h2>What I did:</h2>
+<p>When I started at INEEL I felt like I was being thrown into a whole new area 
+  of scientific thought and that I was asked to write a computer program to help 
+  these people who did work I didn't understand. I spent some time trying to get 
+  a better background understanding of RISK analysis and some time thinking about 
+  the mathematical models used to produce the output. This was not central to 
+  the program because the program would use the SAPHIRE API which did the math 
+  for it, however, this helped immensly down the road as I tried to build a program 
+  which would meet the expectations of the end user and management in the best 
+  way possible. We wrote the program in Visual Basic and C++. Visual Basic was 
+  new to me but not very difficult to learn. For the program I made two ActiveX 
+  controls - a Gantt Chart and a special Diagram Control. I really enjoyed making 
+  these controls. As we felt they were competitive with similiar controls on the 
+  market we considered marketing them. I helped design the database for the program 
+  and wrote a large portion of the code in the program. The speed in which we 
+  carried out the work exceeded management's expectations. I feel that much work 
+  still needs to be done and that the software still needs a lot of testing. This 
+  project was initially approved for two years worth of funding. Management at 
+  INEEL were not hesitant in letting me know that they would like me to come back 
+  and work for them next summer - as a full time employee or an intern. </p>
+<h2>What the software does:</h2>
+<p><img src="riskmonitor2.jpg" width="361" height="272" align="left" hspace="20" vspace="20">Complex 
+  systems (like nuclear power plants) often have more than one operational mode. 
+  Because the goals and system failures change between modes different risk models 
+  have been created for various modes of operation. RISK Monitor (RM) requires 
+  the user to specify which modes of operation will be used when starting the 
+  program for the first time. They do this by selecting files representing SAPHIRE 
+  risk models. The user specifies when the workspace start and end time is. Next, 
+  an analyst needs to break the system into a hierarchy of systems and subsystems 
+  which will be familiar to operators on those systems. They must link those individual 
+  components to failure events in SAPHIRE models. The program helps the user to 
+  generate a hierarchy of component failures based on the systems present in the 
+  SAPHIRE model. The purpose for doing the linking is so that later on an operator 
+  (to whom the SAPHRE models make no sense) can select a component as out of service 
+  and the system can understand the impact on risk levels because of the failure 
+  events that that component out of service would trigger. The system uses the 
+  allows the user to select components either through a tree-view representation 
+  of system components or a graphical view of the overall system (diagram control), 
+  which can be navigated by clicking on 'hot' regions on each digram. The user 
+  uses the gantt chart to specify the start time and end time of an operation. 
+  When the user inserts this operation the sytem updates risk levels during the 
+  time of that operation. These updates are done in the background by a separate 
+  thread so the user interface always remains responsive to input. When the user 
+  wishes to view the anticipated risk levels they can toggle to a calendar view, 
+  which shows average and peak risk levels for each day of that month. To get 
+  more information about changes in risk levels you can double click on a specific 
+  day to show a graph of risk levels for a specified day. This graph allows you 
+  to select a point in time to see which components the sytem thinks are out of 
+  service. It also allows you to see which components which if failed at that 
+  point would contribute most to system failure (these are called critical components). 
+  The program also allows you to view 3d models of components in the system. Some 
+  components also have related information about how to repair them in case of 
+  failure. </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

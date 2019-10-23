@@ -1,0 +1,60 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="Microsoft Theme" content="blueprnt 111, default">
+   <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+   <title>RISK</title>
+</head>
+<body text="#003366" bgcolor="#FFFFCC" link="#9900FF" vlink="#3366FF" alink="#99CCFF" background="blutextb.gif">
+<h1 style="margin-left: 0" align="left"> <font face="Century Gothic, Arial, Helvetica" color="#330099"> 
+  RISK</font></h1>
+
+<h2><img src="RISK%20Screen%20Shots/risksplash.JPG" width="322" height="208" border="0" alt="LADA Screen Shot 1" align="left" hspace="20" vspace="20">Project 
+  Description:</h2>
+<p>Over the summer I decided that it would be a lot of fun to get a computer science 
+  club going this year. I felt that I had been fortunate to have some unique opportunities 
+  to learn some neat stuff through my employmers and through projects on my own. 
+  I also thought that there was plenty I could learn from other students in the 
+  CS program also. I had an idea for a club contest that people could enjoy and 
+  learn a lot from - RISK. The idea was to make it easy to create a .DLL to handle 
+  the AI logic of a computer oponent, let club members create their own computer 
+  AIs and at the end have a competition where every computer AI got to play against 
+  every other over and over again. One teacher, Linda DuHadway, assigned her students 
+  to work on part of the program for one of their programming assignments as they 
+  were studying graph theory and applications at the time.</p>
+<p>&nbsp;</p>
+<h3><a href="riskpackage.zip">Download the program</a><img src="RISK%20Screen%20Shots/riskplacearmies.JPG" width="432" height="326" align="right"></h3>
+<h2>What I did:</h2>
+<p>I started work on RISK in August and basically finished in October. I estimate 
+  I spent about 80 hours working on the program and rules and everything for the 
+  contest. At the start of the semester I publicized the orgnization of ACM for 
+  individuals interested in Computer Science. I got some other individuals who 
+  were willing to support join in the leadership and we asked for input from people 
+  about what they would be interested in learning more about during the semester. 
+  I put together a web page to help collect this information. As people registered 
+  for ACM they were also asked to rate their interest in a variety of topics. 
+  As it turns out people were very interested in learning some of the things that 
+  it took to develop RISK. (DLLs, MFC, Graphics, ...). We have held workshops 
+  about these topics and others throughout this past semester. More information 
+  about the club and the contest is available at the <a href="http://www.cs.usu.edu/%7Eacm">ACM 
+  website</a>.</p>
+<h2><img src="RISK%20Screen%20Shots/riskattack.JPG" width="480" height="346" align="left" hspace="20" vspace="20"></h2>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>I decided to work on the most difficult part of the game first. I felt that 
+  this would be creating the board interface. I created the board as an ActiveX 
+  control first in Visual Basic and then when I had trouble getting the graphics 
+  to work right I made the same control in MFC. There really wasn't too much coding 
+  to it - just a few tricks I had to work out. Next I created a C++ DLL which 
+  would serve as the manager for the other DLLs and an interface for the user 
+  interface portion of the game. The user interface portion I wrote with Visual 
+  Basic. The manager DLL loads the player DLLs and gives those DLLs access to 
+  information about the state of the game (who owns what countries and how many 
+  armies they have on those countries, what countries are connected to what other 
+  countries, etc.). The manager DLL loads each players DLL separately and checks 
+  to make sure that they have exported the functions required by the game. </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

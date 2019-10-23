@@ -2,15 +2,10 @@
 
 <img align="right" width="30%" src="mark-picture.jpg">
 
-This repository contains information about me.  I'm an experienced firmware/software developer presently looking for a job.
+This repository contains information about me.  I'm an experienced firmware/software developer, now working for Clearwater Analytics.  Previously I worked for HP Inc.  Any information I've published here -- including my views or opinions -- are my own and not the views of my employer.
 
-You can find my resume [here](resume-full.md).  There's a shorter version [here](resume-short.md).
+I attended Utah State University.  You can find an old homepage about me [here](/Homepage-2005/mark.html).
 
 You can find my LinkedIn profile [here](https://www.linkedin.com/in/mark-salisbury-44044b1/).
 
--------------------------------
-<h2>Why post my resume on GitHub?</h2>
-
-As I was updating my resume in Microsoft Word, I had an uneasy feeling as I realized I'm using a process unfriendly for version control.  Besides, while I can use Microsoft Word OK, it has these odd editing quirks that can drive a person a little crazy.
-
-Plus, putting my resume in GitHub allows me to publish it to the world.  Which is good.  It also allows you to see my changes and mistakes along the way (unless I overwrite master with a force push...).  That's OK.
+You can find my resume [here](resume-full.md).  There's a shorter version [here](resume-short.md).
